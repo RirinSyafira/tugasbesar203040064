@@ -1,0 +1,14 @@
+.jumbotron {
+    height: 700px;
+    background-color: mediumpurple;
+    color: white;
+}
+.jumbotron h1 {
+    padding-top: 130px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 80px;
+    font-size: 50px;
+}
+
